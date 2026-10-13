@@ -1,0 +1,9 @@
+body { background: #f3f6fb; color: #172033; }
+.navbar { box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.card { border-radius: 14px; }
+.form-control { border-radius: 9px; }
+.btn { border-radius: 9px; padding: .55rem 1rem; }
+.answer-box { background: #f7f9fc; border: 1px solid #dce4ef; border-radius: 10px; padding: 16px; min-height: 80px; white-space: pre-wrap; line-height: 1.6; }
+.status-success { color: #146c43; }
+.status-error { color: #b02a37; }
+@media (max-width: 576px) { main.container { padding-top: 1.25rem !important; } .card-body { padding: 1.15rem !important; } }
